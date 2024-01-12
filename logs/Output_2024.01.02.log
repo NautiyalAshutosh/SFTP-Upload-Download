@@ -1,0 +1,15 @@
+Jan 02, 2024 10:20:09 PM com.sftp.SftpFileDownload main
+INFO: Initiating upload process at 2024.01.02.22.20.09...
+Jan 02, 2024 10:20:11 PM com.sftp.Sftp_Host_to_Remote pushToSftpServer
+INFO: Uploaded 0 files to CredAble, 'OUT' folder is Empty!! 
+Jan 02, 2024 10:20:11 PM com.sftp.SftpFileDownload main
+INFO: Upload process completed...
+
+Jan 02, 2024 10:20:11 PM com.sftp.SftpFileDownload main
+INFO: Initiating download process at 2024.01.02.22.20.11...
+Jan 02, 2024 10:20:12 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: Recieved 0 files from CredAble, 'OUT' folder is Empty!! 
+Jan 02, 2024 10:20:12 PM com.sftp.SftpFileDownload main
+INFO: Download process completed...
+
+

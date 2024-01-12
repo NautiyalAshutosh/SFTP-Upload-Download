@@ -1,0 +1,289 @@
+Jan 02, 2024 9:05:50 PM com.sftp.SftpFileDownload main
+INFO: Initiating upload process at 2024.01.02.21.05.50...
+Jan 02, 2024 9:05:52 PM com.sftp.Sftp_Host_to_Remote pushToSftpServer
+INFO: ashut01 pushed to CredAble at 2024.01.02.21.05.52
+Jan 02, 2024 9:05:52 PM com.sftp.Sftp_Host_to_Remote pushToSftpServer
+INFO: ashut02 pushed to CredAble at 2024.01.02.21.05.52
+Jan 02, 2024 9:05:52 PM com.sftp.Sftp_Host_to_Remote pushToSftpServer
+INFO: ashut03 pushed to CredAble at 2024.01.02.21.05.52
+Jan 02, 2024 9:05:52 PM com.sftp.Sftp_Host_to_Remote pushToSftpServer
+INFO: ashut04 pushed to CredAble at 2024.01.02.21.05.52
+Jan 02, 2024 9:05:53 PM com.sftp.Sftp_Host_to_Remote pushToSftpServer
+INFO: ashut05 pushed to CredAble at 2024.01.02.21.05.53
+Jan 02, 2024 9:05:53 PM com.sftp.Sftp_Host_to_Remote pushToSftpServer
+INFO: ashut06 pushed to CredAble at 2024.01.02.21.05.53
+Jan 02, 2024 9:05:53 PM com.sftp.Sftp_Host_to_Remote pushToSftpServer
+INFO: ashut07 pushed to CredAble at 2024.01.02.21.05.53
+Jan 02, 2024 9:05:53 PM com.sftp.Sftp_Host_to_Remote pushToSftpServer
+INFO: ashut08 pushed to CredAble at 2024.01.02.21.05.53
+Jan 02, 2024 9:05:53 PM com.sftp.Sftp_Host_to_Remote pushToSftpServer
+INFO: ashut09 pushed to CredAble at 2024.01.02.21.05.53
+Jan 02, 2024 9:05:53 PM com.sftp.Sftp_Host_to_Remote pushToSftpServer
+INFO: ashut10 pushed to CredAble at 2024.01.02.21.05.53
+Jan 02, 2024 9:05:53 PM com.sftp.SftpFileDownload main
+INFO: Upload process completed...
+
+Jan 02, 2024 9:05:53 PM com.sftp.SftpFileDownload main
+INFO: Initiating download process at 2024.01.02.21.05.53...
+Jan 02, 2024 9:05:55 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin17.txt recieved from CredAble at 2024.01.02.21.05.55
+Jan 02, 2024 9:05:55 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin17.txt recieved from CredAble at 2024.01.02.21.05.55
+Jan 02, 2024 9:05:55 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin18.txt recieved from CredAble at 2024.01.02.21.05.55
+Jan 02, 2024 9:05:55 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin18.txt recieved from CredAble at 2024.01.02.21.05.55
+Jan 02, 2024 9:05:55 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin19.txt recieved from CredAble at 2024.01.02.21.05.55
+Jan 02, 2024 9:05:55 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin19.txt recieved from CredAble at 2024.01.02.21.05.55
+Jan 02, 2024 9:05:55 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin15.txt recieved from CredAble at 2024.01.02.21.05.55
+Jan 02, 2024 9:05:55 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin15.txt recieved from CredAble at 2024.01.02.21.05.55
+Jan 02, 2024 9:05:56 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin06.txt recieved from CredAble at 2024.01.02.21.05.56
+Jan 02, 2024 9:05:56 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin06.txt recieved from CredAble at 2024.01.02.21.05.56
+Jan 02, 2024 9:05:56 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin13.txt recieved from CredAble at 2024.01.02.21.05.56
+Jan 02, 2024 9:05:56 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin13.txt recieved from CredAble at 2024.01.02.21.05.56
+Jan 02, 2024 9:05:56 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin20.txt recieved from CredAble at 2024.01.02.21.05.56
+Jan 02, 2024 9:05:56 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin20.txt recieved from CredAble at 2024.01.02.21.05.56
+Jan 02, 2024 9:05:56 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin07.txt recieved from CredAble at 2024.01.02.21.05.56
+Jan 02, 2024 9:05:56 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin07.txt recieved from CredAble at 2024.01.02.21.05.56
+Jan 02, 2024 9:05:57 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin10.txt recieved from CredAble at 2024.01.02.21.05.57
+Jan 02, 2024 9:05:57 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin10.txt recieved from CredAble at 2024.01.02.21.05.57
+Jan 02, 2024 9:05:57 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin12.txt recieved from CredAble at 2024.01.02.21.05.57
+Jan 02, 2024 9:05:57 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin12.txt recieved from CredAble at 2024.01.02.21.05.57
+Jan 02, 2024 9:05:57 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin09.txt recieved from CredAble at 2024.01.02.21.05.57
+Jan 02, 2024 9:05:57 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin09.txt recieved from CredAble at 2024.01.02.21.05.57
+Jan 02, 2024 9:05:57 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin01.txt recieved from CredAble at 2024.01.02.21.05.57
+Jan 02, 2024 9:05:57 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin01.txt recieved from CredAble at 2024.01.02.21.05.57
+Jan 02, 2024 9:05:58 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin14.txt recieved from CredAble at 2024.01.02.21.05.58
+Jan 02, 2024 9:05:58 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin14.txt recieved from CredAble at 2024.01.02.21.05.58
+Jan 02, 2024 9:05:58 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin16.txt recieved from CredAble at 2024.01.02.21.05.58
+Jan 02, 2024 9:05:58 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin16.txt recieved from CredAble at 2024.01.02.21.05.58
+Jan 02, 2024 9:05:58 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin04.txt recieved from CredAble at 2024.01.02.21.05.58
+Jan 02, 2024 9:05:58 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin04.txt recieved from CredAble at 2024.01.02.21.05.58
+Jan 02, 2024 9:05:58 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin02.txt recieved from CredAble at 2024.01.02.21.05.58
+Jan 02, 2024 9:05:58 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin02.txt recieved from CredAble at 2024.01.02.21.05.58
+Jan 02, 2024 9:05:58 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin03.txt recieved from CredAble at 2024.01.02.21.05.58
+Jan 02, 2024 9:05:58 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin03.txt recieved from CredAble at 2024.01.02.21.05.58
+Jan 02, 2024 9:05:59 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin05.txt recieved from CredAble at 2024.01.02.21.05.59
+Jan 02, 2024 9:05:59 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin05.txt recieved from CredAble at 2024.01.02.21.05.59
+Jan 02, 2024 9:05:59 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin11.txt recieved from CredAble at 2024.01.02.21.05.59
+Jan 02, 2024 9:05:59 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin11.txt recieved from CredAble at 2024.01.02.21.05.59
+Jan 02, 2024 9:05:59 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin08.txt recieved from CredAble at 2024.01.02.21.05.59
+Jan 02, 2024 9:05:59 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin08.txt recieved from CredAble at 2024.01.02.21.05.59
+Jan 02, 2024 9:05:59 PM com.sftp.SftpFileDownload main
+INFO: Download process completed...
+Jan 02, 2024 9:06:17 PM com.sftp.SftpFileDownload main
+INFO: Initiating upload process at 2024.01.02.21.06.17...
+Jan 02, 2024 9:06:19 PM com.sftp.SftpFileDownload main
+INFO: Upload process completed...
+
+Jan 02, 2024 9:06:19 PM com.sftp.SftpFileDownload main
+INFO: Initiating download process at 2024.01.02.21.06.19...
+Jan 02, 2024 9:06:20 PM com.sftp.SftpFileDownload main
+INFO: Download process completed...
+Jan 02, 2024 9:07:16 PM com.sftp.SftpFileDownload main
+INFO: Initiating upload process at 2024.01.02.21.07.16...
+Jan 02, 2024 9:07:17 PM com.sftp.SftpFileDownload main
+INFO: Upload process completed...
+
+Jan 02, 2024 9:07:17 PM com.sftp.SftpFileDownload main
+INFO: Initiating download process at 2024.01.02.21.07.17...
+Jan 02, 2024 9:07:18 PM com.sftp.SftpFileDownload main
+INFO: Download process completed...
+
+
+Jan 02, 2024 9:07:30 PM com.sftp.SftpFileDownload main
+INFO: Initiating upload process at 2024.01.02.21.07.30...
+Jan 02, 2024 9:07:32 PM com.sftp.SftpFileDownload main
+INFO: Upload process completed...
+
+Jan 02, 2024 9:07:32 PM com.sftp.SftpFileDownload main
+INFO: Initiating download process at 2024.01.02.21.07.32...
+Jan 02, 2024 9:07:33 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin17.txt recieved from CredAble at 2024.01.02.21.07.33
+Jan 02, 2024 9:07:33 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin17.txt recieved from CredAble at 2024.01.02.21.07.33
+Jan 02, 2024 9:07:33 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin18.txt recieved from CredAble at 2024.01.02.21.07.33
+Jan 02, 2024 9:07:33 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin18.txt recieved from CredAble at 2024.01.02.21.07.33
+Jan 02, 2024 9:07:34 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin19.txt recieved from CredAble at 2024.01.02.21.07.34
+Jan 02, 2024 9:07:34 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin19.txt recieved from CredAble at 2024.01.02.21.07.34
+Jan 02, 2024 9:07:34 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin15.txt recieved from CredAble at 2024.01.02.21.07.34
+Jan 02, 2024 9:07:34 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin15.txt recieved from CredAble at 2024.01.02.21.07.34
+Jan 02, 2024 9:07:34 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin06.txt recieved from CredAble at 2024.01.02.21.07.34
+Jan 02, 2024 9:07:34 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin06.txt recieved from CredAble at 2024.01.02.21.07.34
+Jan 02, 2024 9:07:34 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin13.txt recieved from CredAble at 2024.01.02.21.07.34
+Jan 02, 2024 9:07:34 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin13.txt recieved from CredAble at 2024.01.02.21.07.34
+Jan 02, 2024 9:07:34 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin20.txt recieved from CredAble at 2024.01.02.21.07.34
+Jan 02, 2024 9:07:34 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin20.txt recieved from CredAble at 2024.01.02.21.07.34
+Jan 02, 2024 9:07:35 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin07.txt recieved from CredAble at 2024.01.02.21.07.35
+Jan 02, 2024 9:07:35 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin07.txt recieved from CredAble at 2024.01.02.21.07.35
+Jan 02, 2024 9:07:35 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin10.txt recieved from CredAble at 2024.01.02.21.07.35
+Jan 02, 2024 9:07:35 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin10.txt recieved from CredAble at 2024.01.02.21.07.35
+Jan 02, 2024 9:07:35 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin12.txt recieved from CredAble at 2024.01.02.21.07.35
+Jan 02, 2024 9:07:35 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin12.txt recieved from CredAble at 2024.01.02.21.07.35
+Jan 02, 2024 9:07:35 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin09.txt recieved from CredAble at 2024.01.02.21.07.35
+Jan 02, 2024 9:07:35 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin09.txt recieved from CredAble at 2024.01.02.21.07.35
+Jan 02, 2024 9:07:36 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin01.txt recieved from CredAble at 2024.01.02.21.07.36
+Jan 02, 2024 9:07:36 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin01.txt recieved from CredAble at 2024.01.02.21.07.36
+Jan 02, 2024 9:07:36 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin14.txt recieved from CredAble at 2024.01.02.21.07.36
+Jan 02, 2024 9:07:36 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin14.txt recieved from CredAble at 2024.01.02.21.07.36
+Jan 02, 2024 9:07:36 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin16.txt recieved from CredAble at 2024.01.02.21.07.36
+Jan 02, 2024 9:07:36 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin16.txt recieved from CredAble at 2024.01.02.21.07.36
+Jan 02, 2024 9:07:36 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin04.txt recieved from CredAble at 2024.01.02.21.07.36
+Jan 02, 2024 9:07:36 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin04.txt recieved from CredAble at 2024.01.02.21.07.36
+Jan 02, 2024 9:07:37 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin02.txt recieved from CredAble at 2024.01.02.21.07.37
+Jan 02, 2024 9:07:37 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin02.txt recieved from CredAble at 2024.01.02.21.07.37
+Jan 02, 2024 9:07:37 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin03.txt recieved from CredAble at 2024.01.02.21.07.37
+Jan 02, 2024 9:07:37 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin03.txt recieved from CredAble at 2024.01.02.21.07.37
+Jan 02, 2024 9:07:37 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin05.txt recieved from CredAble at 2024.01.02.21.07.37
+Jan 02, 2024 9:07:37 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin05.txt recieved from CredAble at 2024.01.02.21.07.37
+Jan 02, 2024 9:07:37 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin11.txt recieved from CredAble at 2024.01.02.21.07.37
+Jan 02, 2024 9:07:37 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin11.txt recieved from CredAble at 2024.01.02.21.07.37
+Jan 02, 2024 9:07:37 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin08.txt recieved from CredAble at 2024.01.02.21.07.37
+Jan 02, 2024 9:07:37 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: nitin08.txt recieved from CredAble at 2024.01.02.21.07.37
+Jan 02, 2024 9:07:37 PM com.sftp.SftpFileDownload main
+INFO: Download process completed...
+
+
+Jan 02, 2024 9:09:45 PM com.sftp.SftpFileDownload main
+INFO: Initiating upload process at 2024.01.02.21.09.45...
+Jan 02, 2024 9:09:47 PM com.sftp.Sftp_Host_to_Remote pushToSftpServer
+INFO: Uploaded 0 files to CredAble, 'OUT' folder is Empty!! 
+Jan 02, 2024 9:09:47 PM com.sftp.SftpFileDownload main
+INFO: Upload process completed...
+
+Jan 02, 2024 9:09:47 PM com.sftp.SftpFileDownload main
+INFO: Initiating download process at 2024.01.02.21.09.47...
+Jan 02, 2024 9:09:48 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: Recieved 0 files from CredAble, 'OUT' folder is Empty!! 
+Jan 02, 2024 9:09:48 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: Recieved 0 files from CredAble, 'OUT' folder is Empty!! 
+Jan 02, 2024 9:09:48 PM com.sftp.SftpFileDownload main
+INFO: Download process completed...
+
+
+Jan 02, 2024 9:15:53 PM com.sftp.SftpFileDownload main
+INFO: Initiating upload process at 2024.01.02.21.15.53...
+Jan 02, 2024 9:15:55 PM com.sftp.Sftp_Host_to_Remote pushToSftpServer
+INFO: Uploaded 0 files to CredAble, 'OUT' folder is Empty!! 
+Jan 02, 2024 9:15:55 PM com.sftp.SftpFileDownload main
+INFO: Upload process completed...
+
+Jan 02, 2024 9:15:55 PM com.sftp.SftpFileDownload main
+INFO: Initiating download process at 2024.01.02.21.15.55...
+Jan 02, 2024 9:15:56 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: Recieved 0 files from CredAble, 'OUT' folder is Empty!! 
+Jan 02, 2024 9:15:56 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: Recieved 0 files from CredAble, 'OUT' folder is Empty!! 
+Jan 02, 2024 9:15:56 PM com.sftp.SftpFileDownload main
+INFO: Download process completed...
+
+
+Jan 02, 2024 9:16:08 PM com.sftp.SftpFileDownload main
+INFO: Initiating upload process at 2024.01.02.21.16.08...
+Jan 02, 2024 9:16:11 PM com.sftp.Sftp_Host_to_Remote pushToSftpServer
+INFO: ashut01 pushed to CredAble at 2024.01.02.21.16.11
+Jan 02, 2024 9:16:11 PM com.sftp.Sftp_Host_to_Remote pushToSftpServer
+INFO: ashut02 pushed to CredAble at 2024.01.02.21.16.11
+Jan 02, 2024 9:16:11 PM com.sftp.Sftp_Host_to_Remote pushToSftpServer
+INFO: ashut03 pushed to CredAble at 2024.01.02.21.16.11
+Jan 02, 2024 9:16:11 PM com.sftp.Sftp_Host_to_Remote pushToSftpServer
+INFO: ashut04 pushed to CredAble at 2024.01.02.21.16.11
+Jan 02, 2024 9:16:11 PM com.sftp.Sftp_Host_to_Remote pushToSftpServer
+INFO: ashut05 pushed to CredAble at 2024.01.02.21.16.11
+Jan 02, 2024 9:16:12 PM com.sftp.Sftp_Host_to_Remote pushToSftpServer
+INFO: ashut06 pushed to CredAble at 2024.01.02.21.16.12
+Jan 02, 2024 9:16:12 PM com.sftp.Sftp_Host_to_Remote pushToSftpServer
+INFO: ashut07 pushed to CredAble at 2024.01.02.21.16.12
+Jan 02, 2024 9:16:12 PM com.sftp.Sftp_Host_to_Remote pushToSftpServer
+INFO: ashut08 pushed to CredAble at 2024.01.02.21.16.12
+Jan 02, 2024 9:16:12 PM com.sftp.Sftp_Host_to_Remote pushToSftpServer
+INFO: ashut09 pushed to CredAble at 2024.01.02.21.16.12
+Jan 02, 2024 9:16:12 PM com.sftp.Sftp_Host_to_Remote pushToSftpServer
+INFO: ashut10 pushed to CredAble at 2024.01.02.21.16.12
+Jan 02, 2024 9:16:12 PM com.sftp.SftpFileDownload main
+INFO: Upload process completed...
+
+Jan 02, 2024 9:16:12 PM com.sftp.SftpFileDownload main
+INFO: Initiating download process at 2024.01.02.21.16.12...
+Jan 02, 2024 9:16:13 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: Recieved 0 files from CredAble, 'OUT' folder is Empty!! 
+Jan 02, 2024 9:16:13 PM com.sftp.Sftp_Remote_to_Host pullFromSftpServer
+INFO: Recieved 0 files from CredAble, 'OUT' folder is Empty!! 
+Jan 02, 2024 9:16:13 PM com.sftp.SftpFileDownload main
+INFO: Download process completed...
+
+
