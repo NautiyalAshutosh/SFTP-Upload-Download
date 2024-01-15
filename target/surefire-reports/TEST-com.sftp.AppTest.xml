@@ -17,7 +17,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.2\bin"/>
-    <property name="sun.java.command" value="C:\Users\AshutoshNautiyal\AppData\Local\Temp\surefire11482419129045716092\surefirebooter-20231227155521416_3.jar C:\Users\AshutoshNautiyal\AppData\Local\Temp\surefire11482419129045716092 2023-12-27T15-55-20_752-jvmRun1 surefire-20231227155521416_1tmp surefire_0-20231227155521416_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\AshutoshNautiyal\AppData\Local\Temp\surefire11880160481162531906\surefirebooter-20240112152341946_3.jar C:\Users\AshutoshNautiyal\AppData\Local\Temp\surefire11880160481162531906 2024-01-12T15-23-41_480-jvmRun1 surefire-20240112152341946_1tmp surefire_0-20240112152341946_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\AshutoshNautiyal\Desktop\SFTP\Credable_SFTP.02\target\test-classes;C:\Users\AshutoshNautiyal\Desktop\SFTP\Credable_SFTP.02\target\classes;C:\Users\AshutoshNautiyal\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\AshutoshNautiyal\.m2\repository\com\jcraft\jsch\0.1.55\jsch-0.1.55.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -33,7 +33,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\AshutoshNautiyal\AppData\Local\Temp\surefire11482419129045716092\surefirebooter-20231227155521416_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\AshutoshNautiyal\AppData\Local\Temp\surefire11880160481162531906\surefirebooter-20240112152341946_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.2+9"/>
@@ -60,5 +60,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="testApp" classname="com.sftp.AppTest" time="0.006"/>
+  <testcase name="testApp" classname="com.sftp.AppTest" time="0.005"/>
 </testsuite>
